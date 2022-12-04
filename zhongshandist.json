@@ -1,0 +1,165 @@
+{
+    "type": "HotspotCollection",
+    "hotspot": [
+        {
+            "type": "hotspot",
+            "properties": {
+                "place": "1",
+                "casenum": "16",
+                "death": "0",
+                "injuried": "22"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": [
+                    121.522858,
+                    25.068424
+                ]
+            }
+        },
+        {
+            "type": "hotspot",
+            "properties": {
+                "place": "2",
+                "casenum": "13",
+                "death": "0",
+                "injuried": "26"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": [
+                    121.524227,
+                    25.047802
+                ]
+            }
+        },
+        {
+            "type": "hotspot",
+            "properties": {
+                "place": "3",
+                "casenum": "13",
+                "death": "0",
+                "injuried": "14"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": [
+                    121.534633,
+                    25.044990
+                ]
+            }
+        },
+        {
+            "type": "hotspot",
+            "properties": {
+                "place": "4",
+                "casenum": "11",
+                "death": "1",
+                "injuried": "17"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": [
+                    121.550281,
+                    25.086324
+                ]
+            }
+        },
+        {
+            "type": "hotspot",
+            "properties": {
+                "place": "5",
+                "casenum": "11",
+                "death": "0",
+                "injuried": "12"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": [
+                    121.549286,
+                    25.084145
+                ]
+            }
+        },
+        {
+            "type": "hotspot",
+            "properties": {
+                "place": "6",
+                "casenum": "10",
+                "death": "0",
+                "injuried": "14"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": [
+                    121.537109,
+                    25.054753
+                ]
+            }
+        },
+        {
+            "type": "hotspot",
+            "properties": {
+                "place": "7",
+                "casenum": "10",
+                "death": "0",
+                "injuried": "13"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": [
+                    121.530302,
+                    25.062531
+                ]
+            }
+        },
+        {
+            "type": "hotspot",
+            "properties": {
+                "place": "8",
+                "casenum": "10",
+                "death": "0",
+                "injuried": "12"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": [
+                    121.537238,
+                    25.062434
+                ]
+            }
+        },
+        {
+            "type": "hotspot",
+            "properties": {
+                "place": "9",
+                "casenum": "7",
+                "death": "0",
+                "injuried": "14"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": [
+                    121.525385,
+                    25.052110
+                ]
+            }
+        },
+        {
+            "type": "hotspot",
+            "properties": {
+                "place": "10",
+                "casenum": "7",
+                "death": "0",
+                "injuried": "11"
+            },
+            "geometry": {
+                "type": "point",
+                "coordinates": [
+                    121.520729,
+                    25.048084
+                ]
+            }
+        }
+    ]
+}
