@@ -20,7 +20,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "林森北路與市民大道二段交叉路口",
+                "place": "林森北路與市民大道交叉路口",
                 "casenum": "13",
                 "death": "0",
                 "injuried": "26"
@@ -36,7 +36,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "八德路二段與市民大道三段交叉路口",
+                "place": "八德路與市民大道交叉路口",
                 "casenum": "13",
                 "death": "0",
                 "injuried": "14"
@@ -68,7 +68,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "大直街、北安路670巷與北安路交叉路口",
+                "place": "大直街與北安路交叉路口",
                 "casenum": "11",
                 "death": "0",
                 "injuried": "12"
@@ -84,7 +84,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "建國北路二段與長春路交叉路口",
+                "place": "建國北路與長春路交叉路口",
                 "casenum": "10",
                 "death": "0",
                 "injuried": "14"
@@ -100,7 +100,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "吉林路與民權東路二段交叉路口",
+                "place": "吉林路與民權東路交叉路口",
                 "casenum": "10",
                 "death": "0",
                 "injuried": "13"
@@ -116,7 +116,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "建國北路二段三段與民權東路二段三段交叉路口",
+                "place": "建國北路與民權東路交叉路口",
                 "casenum": "10",
                 "death": "0",
                 "injuried": "12"
@@ -132,7 +132,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "南京東路一段與林森北路交叉路口",
+                "place": "南京東路與林森北路交叉路口",
                 "casenum": "7",
                 "death": "0",
                 "injuried": "14"
@@ -148,7 +148,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "市民大道一段二段與中山北路交叉路口",
+                "place": "市民大道與中山北路交叉路口",
                 "casenum": "7",
                 "death": "0",
                 "injuried": "11"
