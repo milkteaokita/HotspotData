@@ -4,7 +4,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "民族西路、台2甲、民族東路",
+                "place": "民族東西路與中山北路交叉路口",
                 "casenum": "16",
                 "death": "0",
                 "injuried": "22"
@@ -20,7 +20,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "林森北路、市民大道二段",
+                "place": "林森北路與市民大道二段交叉路口",
                 "casenum": "13",
                 "death": "0",
                 "injuried": "26"
@@ -36,7 +36,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "八德路二段、市民大道三段",
+                "place": "八德路二段與市民大道三段交叉路口",
                 "casenum": "13",
                 "death": "0",
                 "injuried": "14"
@@ -52,7 +52,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "北安路、北安路機車專用道",
+                "place": "自強圓環北安路機車專用道入口",
                 "casenum": "11",
                 "death": "1",
                 "injuried": "17"
@@ -68,7 +68,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "大直街、北安路670巷、北安路",
+                "place": "大直街、北安路670巷與北安路交叉路口",
                 "casenum": "11",
                 "death": "0",
                 "injuried": "12"
@@ -84,7 +84,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "建國北路二段、長春路",
+                "place": "建國北路二段與長春路交叉路口",
                 "casenum": "10",
                 "death": "0",
                 "injuried": "14"
@@ -100,7 +100,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "吉林路、民權東路二段",
+                "place": "吉林路與民權東路二段交叉路口",
                 "casenum": "10",
                 "death": "0",
                 "injuried": "13"
@@ -116,7 +116,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "建國北路二段、民權東路二段、建國北路三段、民權東路三段",
+                "place": "建國北路二段三段與民權東路二段三段交叉路口",
                 "casenum": "10",
                 "death": "0",
                 "injuried": "12"
@@ -132,7 +132,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "南京東路一段、林森北路",
+                "place": "南京東路一段與林森北路交叉路口",
                 "casenum": "7",
                 "death": "0",
                 "injuried": "14"
@@ -148,7 +148,7 @@
         {
             "type": "hotspot",
             "properties": {
-                "place": "市民大道二段、市民大道一段、台1甲",
+                "place": "市民大道一段二段與中山北路交叉路口",
                 "casenum": "7",
                 "death": "0",
                 "injuried": "11"
